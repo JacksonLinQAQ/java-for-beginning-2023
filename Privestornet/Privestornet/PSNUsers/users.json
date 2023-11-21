@@ -1,0 +1,796 @@
+{
+    "users": {
+        "1c": {
+            "username": "1c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "1c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/1c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "2c": {
+            "username": "2c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "2c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/2c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "3c": {
+            "username": "3c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "3c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/3c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "4c": {
+            "username": "4c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "4c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/4c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "5c": {
+            "username": "5c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "5c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/5c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "6c": {
+            "username": "6c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "6c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/6c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "7c": {
+            "username": "7c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "7c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/7c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "8c": {
+            "username": "8c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "8c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/8c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "9c": {
+            "username": "9c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "9c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/9c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "10c": {
+            "username": "10c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "10c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/10c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "11c": {
+            "username": "11c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "11c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/11c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "12c": {
+            "username": "12c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "12c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/12c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "13c": {
+            "username": "13c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "13c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/13c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "14c": {
+            "username": "14c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "14c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/14c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "15c": {
+            "username": "15c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "15c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/15c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "16c": {
+            "username": "16c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "16c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/16c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "17c": {
+            "username": "17c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "17c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/17c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "18c": {
+            "username": "18c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "18c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/18c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "19c": {
+            "username": "19c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "19c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/19c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "20c": {
+            "username": "20c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "20c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/20c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "21c": {
+            "username": "21c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "21c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/21c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "22c": {
+            "username": "22c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "22c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/22c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "23c": {
+            "username": "23c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "23c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/23c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "24c": {
+            "username": "24c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "24c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/24c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "25c": {
+            "username": "25c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "25c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/25c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "26c": {
+            "username": "26c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "26c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/26c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "27c": {
+            "username": "27c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "27c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/27c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "28c": {
+            "username": "28c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "28c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/28c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "29c": {
+            "username": "29c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "29c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/29c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "30c": {
+            "username": "30c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "30c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/30c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "31c": {
+            "username": "31c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "31c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/31c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "32c": {
+            "username": "32c",
+            "password": "123",
+            "is-administrator": false,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "32c",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/32c",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        },
+        "admin": {
+            "username": "admin",
+            "password": "admin",
+            "is-administrator": true,
+            "received-data": [],
+            "personal-data": {
+                "pathsource": "personal",
+                "pathtype": "root",
+                "username": "admin",
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Users/admin",
+                "content": {}
+            },
+            "public-data": {
+                "pathsource": "public",
+                "pathtype": "root",
+                "username": null,
+                "name": null,
+                "path": "",
+                "fullpath": "./Privestornet/PSNUsers/Public",
+                "content": {}
+            }
+        }
+    }
+}
